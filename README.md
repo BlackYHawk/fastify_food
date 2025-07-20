@@ -2,6 +2,9 @@
 
 一个基于 Fastify 的食物智能助手后端系统，提供食物扫描、餐谱管理、聊天群组和直播功能。
 
+## Related frontend Project
+Based on Fastify Framework [react_food_AI](https://github.com/BlackYHawk/react_food_AI)
+
 ## 功能特性
 
 ### 1. 食物扫描功能
